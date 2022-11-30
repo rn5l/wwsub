@@ -1,0 +1,283 @@
+;turnover_id;payee_payer_name;holder_name;crossbooking
+0;b892f151-e54d-4cdc-ad3b-bb49c6f10197;stefan und ulrike steffens;stefan und manuela steffens;False
+1;85921cb1-9d3c-4ee0-aefa-5b758eef8701;drk krejsverband claire siege v;maren hecker;False
+2;63cb68a0-8a04-11ec-1d14-82bb5829b41b;emslaendische volksbank eg;hinrich schleich;False
+3;fe383450-bc4e-11ec-c954-6c39d3c8dc12;mig gmbh und co fonds6 kg;kaethe finke;False
+4;9a372a30-e9e2-11ec-e558-8689140089a8;bundesagentur rosel arbeit service lehmann;kaethe finke;False
+5;a09add40-5239-11ec-7540-40403ed94418;stilla regina rust;stilla regina rust;True
+6;d9f5d970-a8a9-11ec-9461-3fe2980e62fd;ga nr00002139 blz45850005 2;frithjof herrmann;False
+7;e79d2040-7e3a-11ec-005c-25b05d1c6034;mastercard abrechnung;korbinian hellwig;False
+8;e491ab10-87a8-11ec-4643-1378609546af;wuertt versicherg ag;agnieszka kurt hartung;False
+9;6cecb6c0-6dba-11ec-9b29-f42aa7e6703f;aktion adriane arnfried 2022;vincenzo groettner;False
+10;3c73fba0-7fcd-11ec-dd24-79982ba5fb42;dm drogeriemarkt sagt danke;anna-maria scheuermann;False
+11;2ee722e0-256f-11ec-fdb7-aedb36c95217;oil 258 heusweiler;toni und pirmin pechel;False
+12;a0763e40-5239-11ec-64bb-6b46f92205eb;stadtwerke saarbrucken netz ag;anatoli juettner;False
+13;3ae309f0-8484-11ec-8b2c-6d59bdec8269;kaufland;vincenzo mangold;False
+14;3ae309f0-8484-11ec-8b2c-6d59bdec8267;kreutzer cris neuer lacosteweg 11 muenchen;cris kreutzer;False
+15;1083d140-83bb-11ec-2b6e-c1f4960d3c7a;tillmann tomiak 90480 nurnb;vincenzo groettner;False
+16;0d7268a0-8d29-11ec-084a-c60661b40854;ullrich scheel;ullrich scheel;True
+17;d2828320-3b6f-11ec-ffc5-beac1bc69878;jet dankt katharine ihren lehmann;iwan und hedi sager;False
+18;564e6e60-2fa6-11ec-de2a-8319127bf074;mobene gmbh co kg;lydia drub;False
+19;c6704cb0-6127-11ec-06b1-36867daaa910;gudd gess saarbrigger;margaret und ella herrmann;False
+20;6d2ccd00-6dba-11ec-d9dc-6e7aab069184;stilla regina rust;stilla regina rust;True
+21;d2750d60-c03c-11ec-e8f7-edf3006bb28f;s c a paypal europe s a r l et cie;ullrich scheel;False
+22;95d2a470-733a-11ec-78a5-bb8cbc042ce8;huk coburg unternehmensgrup;philomena schaaf;False
+23;1392eff0-7a4d-11ec-fa92-fb5e56938212;patrizia faust;patrizia faust;True
+24;f9e90b50-45a6-11ec-2630-5ca440aa26bb;margaret und ella herrmann;margaret und ella herrmann;True
+25;2eb55c40-aa3c-11ec-8478-ae605aa28c3a;margaret salz;margaret salz;True
+26;beb5abf0-78ba-11ec-d223-45cced0d3133;agnieszka kurt hartung;agnieszka kurt hartung;True
+27;048440b0-24a6-11ec-f478-5b5499f92ca5;nikolai scholz;nikolai scholz;True
+28;c9613500-57b9-11ec-108a-cc803093cdf2;lidl dienstleistung gmbh und co kg;hans-michael hendriks;False
+29;1ca7e200-5e03-11ec-4f30-8cf766277c9f;aldi gmbh co kg radevormwald;ayten siering;False
+30;db734320-a3f2-11ec-72ab-53052fdfcf18;techniker krankenkasse;guenther jessel;False
+31;f0db6c40-61f0-11ec-cc83-1ef7f0a612b1;landesbank berlin;iwan und hedi sager;False
+32;18142db0-6c28-11ec-2b4c-0a003536357e;ga nr00002439 blz46050001 0;janna ulla tschentscher;False
+33;6cf7da50-6dba-11ec-047a-ce23de21d40b;alice adeline sibylle hans-karl van der dussen;alice adeline sibylle hans-karl van der dussen;True
+34;41058d10-71a8-11ec-a703-44ede1ff80e5;ayten siering;ayten siering;True
+35;6b6cb500-7271-11ec-c1dc-503e7e884d03;patrizia faust;patrizia faust;True
+36;5f354350-9829-11ec-8ef4-ed007092104b;mareile hoevel;mareile hoevel;True
+37;aca17af0-2c81-11ec-3084-ee2ac6c8013d;konstanze und kazim holt;konstanze und kazim holt;True
+38;6e706200-6903-11ec-ecd8-d7c9694c6d46;gewinnsparrate 0120350672;faruk killer;False
+39;d6e3fba0-b217-11ec-aebc-e45d82d3d579;allbau a g;till schuchhardt;False
+40;0d6c0000-8d29-11ec-9242-d63fe282fdd1;halina bonbach;halina bonbach;True
+41;458a7450-6383-11ec-ec98-1ee01591606d;worldpay ap limited;georgia beckmann;False
+42;cae68df0-5302-11ec-6991-f45ec1ec3009;apotheker und aerztebank;alfred ruppersberger;False
+43;a80ab120-bf73-11ec-bddd-fde94324f2c7;vincenzo mangold;vincenzo mangold;True
+44;d2775f90-3b6f-11ec-e891-dcfc81188fdf;anatoli juettner;anatoli juettner;True
+45;1e492760-594c-11ec-5f57-214c9e178f87;konstanze und kazim holt;konstanze und kazim holt;True
+46;c9758050-57b9-11ec-b2da-2a30d108fbd1;deutsche klassenlotterie berlin rechtsf anstalt d or;margaret und ella herrmann;False
+47;c1bed730-6f4c-11ec-e530-295c10911967;;pauline karge;False
+48;6270f880-09ee-11ec-d3dd-558b5252bc71;nikolai scholz;nikolai scholz;True
+49;b892f151-e54d-4cdc-ad3b-bb49c6f10164;laura hauser;laura hauser;True
+50;77af9860-4cb9-11ec-2d45-7d34942a4671;stilla regina rust;stilla regina rust;True
+51;b41ac4b0-99bb-11ec-7f50-4c74d76ddfe3;lidl dienstleistung gmbh und co kg;ullrich scheel;False
+52;89b104b0-98f2-11ec-40a5-17ac74eac725;udo oder niklas tomiak;korbinian hellwig;False
+53;28d98750-384b-11ec-a0d9-66676acc4bb4;;konstanze und kazim holt;False
+54;c95e27c0-57b9-11ec-1557-3a54dea62025;kik;gertrud binner;False
+55;1203010a-69e1-49e9-88f8-6927afc62874;bundesagentur hanne arbeit service mans;georgios berger;False
+56;a21ab7f0-4d82-11ec-a7f3-9370b1da4b09;stilla regina rust;stilla regina rust;True
+57;d9eb2b10-a8a9-11ec-f85b-ad4b34fc410f;krista barutcu;hans-bernd wieloch;False
+58;f0daa8f0-61f0-11ec-64d4-a044d9f7c861;jet dankt franz-xaver ihren hoffmann;konstanze und kazim holt;False
+59;5f354350-9829-11ec-eb07-62ce6a6901c8;grete mohaupt;grete mohaupt;True
+60;13835f90-7a4d-11ec-677a-cc86842367e0;swetlana weller;swetlana weller;True
+61;b892f151-e54d-4cdc-ad3b-bb49c6f10174;maik wosniak;m wosniak;False
+62;a7dcc350-bf73-11ec-0537-31967b265e84;mario drewes;mario drewes;True
+63;deacd570-15b7-11ec-a0aa-93b567bfacca;wuestenrot bausparkasse a g;margarita groettner;False
+64;aca17af0-2c81-11ec-1efa-2fc85d2faf26;carmine und peggy schinke;carmine und peggy schinke;True
+65;ef3bad80-66a7-11ec-fed8-887b879e0ca0;saarbrueck 0090 27;luisa aleksandra reza lissi fischer;False
+66;e00808e0-95cd-11ec-0769-b74d0def5476;spielwaren schweiger gmbh;korbinian hellwig;False
+67;8e341730-8acd-11ec-7807-22fe20f1114f;frankfurter volksbank eg;till schuchhardt;False
+68;c1cfa010-6f4c-11ec-8aaa-18a3f4f31e19;e plus service gmbh e plus strasse 1;hans-michael hendriks;False
+69;663e7db6-40a7-4371-b900-f2ee948e6d27;rewe;winfried wilms;False
+70;4ebdeae0-4739-11ec-e44d-016f15a26078;carmine und peggy schinke;carmine und peggy schinke;True
+71;b892f151-e54d-4cdc-ad3b-bb49c6f10184;nathan christin zomniak;christin zomniak nathan;False
+72;56149170-b473-11ec-8ae4-adb8a3431e15;hakan songuel und frau rogner;silke drub;False
+73;b1134720-a329-11ec-18db-f067e6c013e5;vincenzo mangold;vincenzo mangold;True
+74;2baa5c40-b3aa-11ec-7bd2-fb08038e9e5c;mario drewes;mario drewes;True
+75;a4d67e40-c8e1-11ec-78f1-f3a8d5e00ad4;mig gmbh u co fonds kg;kaethe finke;False
+76;6b684830-7271-11ec-b099-80aab3ab3c0c;new yorker15871;wolfgang bloch;False
+77;9d66f880-5ba7-11ec-8831-cda198709557;baeckerei eigenwillig;ayten siering;False
+78;9d83f660-5ba7-11ec-e355-3f80f6040e74;landesbank karl-georg wuerttemberg;anka scheel;False
+79;6802dfe4-672d-40e4-81fa-b3151e56e257;emslaendische volksbank eg;lucia hertrampf;False
+80;b892f151-e54d-4cdc-ad3b-bb49c6f30394;marcus hofpfister;marcus hans-peter hofpfister;True
+81;bb439e43-dcf7-4cb0-8ada-62e9556a6e9b;wuertt versicherg a g;winfried wilms;False
+82;9d83f660-5ba7-11ec-9eb9-ae4ed08a65c0;landesbank gretchen wuerttemberg;eugenia putz;False
+83;83bbb450-2701-11ec-f4ac-67a8c77efc88;amazon payments europe s c a;iwan und hedi sager;False
+84;8cb8f770-8f84-11ec-93cd-bd82ae3bd028;esprit online shop;aloisia schottin;False
+85;89f05900-8ec6-4ee2-b9a8-aed56ac03239;techniker krankenkasse;lucia hertrampf;False
+86;b89e4c60-8b96-11ec-f9b4-83d15e194c6e;bundesagentur hanny arbeit service dehmel;theres fischer;False
+87;d7106b10-2d4a-11ec-182c-0365658135c5;zweckverband wasserversorgung und abwasser entsorgung altenburger drub;anka scheel;False
+88;9d746600-5ba7-11ec-7624-1eba8bebcfb6;wuerttembergische versicherung ag;alfred ruppersberger;False
+89;934ba9ff-5447-46d2-827c-68e97c3030cf;bundesagentur nadja arbeit service stumpf;agnieszka ackermann;False
+90;22bad4c0-4b27-11ec-6abd-5a27f3aee6ba;lidl;jacek benthin;False
+91;3ae3a630-8484-11ec-56c9-cf5e5b541d49;elzbieta ackermann;elzbieta ackermann;True
+92;6e703af0-6903-11ec-a995-1ba7e39b6bd7;danke 23101 marktkauf moege;vincenzo groettner;False
+93;414548b7-fab6-4554-aadc-b985dd27e102;rewe markt gmbh;lucia hertrampf;False
+94;a075f020-5239-11ec-f108-482e3eac8168;bettina loewer;bettina loewer;True
+95;fb5b4930-c5bc-11ec-218c-7f7bf73ee853;sportbad tatami;ullrich scheel;False
+96;b892f151-e54d-4cdc-ad3b-bb49c6f10124;wolfgang und frau agnes col;agnes colbert;False
+97;5f34ce20-9829-11ec-827f-75429ec47694;alfred jacobi jaeckel;alfred jacobi jaeckel;True
+98;f04ea9a1-50d6-4a51-b01a-4dc6a13686c3;anastasios hauffer;lucia hertrampf;False
+99;57d1f290-2aef-11ec-b661-bd16c0f09b13;targobank visa dd extern;eugenia putz;False
+100;4d151829-d295-4766-a337-6527a36fb398;rewe markt gmbh;maren hecker;False
+101;792fc130-4802-11ec-bb2c-9135264617d8;bald automobile gmbh;stilla regina rust;False
+102;e61cd060-82f1-11ec-8402-b7b13a7b35a5;ergo versicherung ag;anna-maria scheuermann;False
+103;823793e0-2bb8-11ec-f3b1-cce3d2656122;deutsche klassenlotterie berlin rechtsf anstalt d or;konstanze und kazim holt;False
+104;70223976-7504-4586-9369-87fc61e72260;kfw frankfurt;agnieszka ackermann;False
+105;d2814aa0-3b6f-11ec-a421-0433d397bbba;carmine und peggy schinke;carmine und peggy schinke;True
+106;854293e0-224a-11ec-35ca-f961df614c0c;bundeskasse trier dienstsitz kiel;eugenia putz;False
+107;302323e5-c33d-424c-a9ac-7d7342cf7713;bundesagentur vesna arbeit service roemer;reingard henk;False
+108;51b5d810-3dcb-11ec-78d3-4f009c9f3cbb;anastasios kraushaar;danica ruppersberger;False
+109;19d66890-6771-11ec-f65a-c372ba6148ac;stilla regina rust;stilla regina rust;True
+110;18182550-6c28-11ec-dbff-4fa5620f002a;erik ronny geisler;erik ronny geisler;True
+111;b892f151-e54d-4cdc-ad3b-bb49c6f10196;stefan und ulrike steffens;stefan und ulrike adenauer;False
+112;db979c40-1f25-11ec-1769-92200334a9bc;alte stadt apotheke;calogero martin;False
+113;6e6eb450-6903-11ec-6a9d-64f321a8ecba;;anna-maria scheuermann;False
+114;1509a2e0-7596-11ec-1ba3-8c10cb471c89;wuestenrot bausparkasse a g;hinrich schleich;False
+115;854022e0-224a-11ec-d9d2-db1cc0b10dfc;;adem mueller;False
+116;18550740-6c28-11ec-1649-74213bff0fc5;ikea deutschland gmb;stilla regina rust;False
+117;e0085700-95cd-11ec-dfb9-1277fa6c53a3;katarzyna sportverein nuernberg;philomena schaaf;False
+118;5647deb0-2fa6-11ec-2802-2454bd8f3d1d;stilla regina rust;stilla regina rust;True
+119;b892f151-e54d-4cdc-ad3b-bb49c6f10191;hans wurst;hanswurst;True
+120;c66c5510-6127-11ec-ad06-7115877eb95c;tf heinz dieter ab;lydia drub;False
+121;a9215640-8b4d-4be8-9312-212b83617d27;bundesagentur traudl arbeit service doerr;wulf geißler;False
+122;e62caee0-82f1-11ec-63db-fb591a40605f;lidl dienstleistung gmbh und co kg;hans-michael hendriks;False
+123;5f445e80-9829-11ec-b776-7712e2d3d521;psv dusan e v;ullrich scheel;False
+124;bbbb26b0-8228-11ec-89fe-54119f37289e;reginald setz;luisa aleksandra reza lissi fischer;False
+125;945fc210-77f1-11ec-9dce-69dcc831725c;handwerksk des saarlandes;hans-michael hendriks;False
+126;b892f151-e54d-4cdc-ad3b-bb49c6f10192;tomas mann;tomas mann;True
+127;428df340-6cf1-11ec-395c-d9f46ba9de04;zurich life assurance public limited company;luisa aleksandra reza lissi fischer;False
+128;b1134720-a329-11ec-14c0-57e01acf6361;ullrich scheel;ullrich scheel;True
+129;760a3450-5170-11ec-eed8-36362023f4fd;reginald setz;luisa aleksandra reza lissi fischer;False
+130;7aa9cf80-434b-11ec-9a55-75ab0b3bbca5;ortmann;calogero martin;False
+131;e6111090-82f1-11ec-231d-0ee1081a51e8;competo bestand plus ebehardhofe gmbh co kg;theres fischer;False
+132;07614aa0-a005-11ec-8a26-a6088e48f1af;emslaendische volksbank eg;guenther jessel;False
+133;20f39174-3d96-45fa-9fbc-aa3db5d60d5c;landesoberkasse jacqueline wuerttemberg lbv ba wue;lucia hertrampf;False
+134;b892f151-e54d-4cdc-ad3b-bb49c6f10195;stefan und ulrike steffens;ulrikesteffens;False
+135;ae296bf0-27ca-11ec-b9e1-7e80365edcd6;waltraut hahn;lydia drub;False
+136;5f42b0d0-9829-11ec-4af6-b69a2b06f315;ga nr00002029 blz83050200 7;ullrich scheel;False
+137;760b93e0-5170-11ec-1250-17a1a995f70d;deutsche post ag;cornelia kroker;False
+138;839622b0-abce-11ec-3674-08fbaae58085;bundesagentur leokadia arbeit service oderwald;guenther jessel;False
+139;4ebf9890-4739-11ec-06f1-4004c9ff3b98;deutsche klassenlotterie berlin rechtsf anstalt d or;toni und pirmin pechel;False
+140;0ef577a0-8872-11ec-001b-65b25b23259c;niederlassung deutschland amazon eu s a r l;vincenzo mangold;False
+141;b892f151-e54d-4cdc-ad3b-bb49c6f10199;markus reichhardt;markus reichhardt;True
+142;f213fc80-e206-11ec-982a-1f3e9abec274;debitor inkasso gmbh;fritz mende;False
+143;37e50240-8df2-11ec-3365-a44a6c9efc51;udo oder niklas tomiak;korbinian hellwig;False
+144;b892f151-e54d-4cdc-ad3b-bb49c6f10193;philip tomas mann;tomasmann;False
+145;5f34ce20-9829-11ec-d485-e9c1c57bc35a;rolf-peter schaaf;rolf-peter schaaf;True
+146;d9fc4210-a8a9-11ec-bd82-e1f6e2f8a328;schatzhohle hecker;ullrich scheel;False
+147;564a28a0-2fa6-11ec-53a2-fd21d139b149;reinhard schleich;carmine und peggy schinke;False
+148;2a26b100-b861-11ec-f554-949e3e1e3523;volksbank tilly eg;kaethe finke;False
+149;b892f151-e54d-4cdc-ad3b-bb49c6f10294;nele wollershausen;marcel kunde nele frida wollershausen;False
+150;3afb4ce0-8484-11ec-0dee-fb5b8f9159e4;itzehoer lebensvers;patrizia faust;False
+151;c28024d6-75c5-45ba-89b9-5ced5b4d8b43;aldi;lina schweitzer;False
+152;a08d6fc0-5239-11ec-9af4-b62ae246015e;nikolaj 1 dietz;iwan und hedi sager;False
+153;a8117020-3aa6-11ec-2559-8ae9f5e70e4a;;nikolai wernecke;False
+154;5aad27c0-a64e-11ec-4dc8-ecf92a57565d;aldi gmbh co kg radevormwald;hans-bernd wieloch;False
+155;37ddaf40-8df2-11ec-a816-9afc00ae9b0e;stadt berger;ullrich scheel;False
+156;b892f151-e54d-4cdc-ad3b-bb49c6f10144;muller leopold;leopold mueller;False
+157;b892f151-e54d-4cdc-ad3b-bb49c6f10194;stefan und ulrike steffens;ulrike steffens;True
+158;9eec0350-56f0-11ec-aab4-63dd846b584d;woehrl nuernberg sagt danke;faruk killer;False
+159;1083d140-83bb-11ec-63eb-4cfcb6b3a7da;cemil tomiak 90480 nurnb;korbinian hellwig;False
+160;e625d110-82f1-11ec-664e-5719e4e4599d;wuestenrot bausparkasse ag;patrizia faust;False
+161;18182550-6c28-11ec-21be-085e50261420;ard zdf dradio beitragsserv;faruk killer;False
+162;f6a65140-d3e1-11ec-b202-04ae6242be82;wuestenrot bausparkasse a g;anthony gotthard;False
+163;40fd28a0-71a8-11ec-f44f-246d680e4671;lastschrift aus kartenzahlung;wolfgang bloch;False
+164;40fd9dd0-71a8-11ec-7ce1-7688e9a3c298;myshisha st fechner;anna-maria scheuermann;False
+165;94475810-77f1-11ec-4d1d-cd2d7f8970ef;wuertt versicherg a g;till schuchhardt;False
+166;4101e390-71a8-11ec-f911-ed60b99461dc;patrizia faust;patrizia faust;True
+167;08fe9860-9b4e-11ec-8531-ec933623b527;018 hellweg sagt danke;ayten siering;False
+168;f9eeb0a0-45a6-11ec-216a-53a25bf16e62;stilla regina rust;stilla regina rust;True
+169;88195c40-9da9-11ec-6e62-766a6b65ea06;birthe elise und frau trub;hermann mangold;False
+170;b0fd7530-a329-11ec-081b-3a66fee9d7e2;rolf-peter schaaf;rolf-peter schaaf;True
+171;f25ddf00-5d39-11ec-5934-c8c67db8a457;toni und pirmin pechel;toni und pirmin pechel;True
+172;b892f151-e54d-4cdc-ad3b-bb49c6f10114;markus reichhardt;philipp reichhardt;False
+173;92c3acd0-7ca8-11ec-9255-feddbaf5e5b0;western union online ltd;frithjof herrmann;False
+174;de8ebde0-9a84-11ec-abd0-d65449f6d8a4;svenja doering;georgia beckmann;False
+175;31f07530-1c01-11ec-bfd1-b8ee813fb0f9;lidl;jacek benthin;False
+176;ae25c270-27ca-11ec-80c4-5124e4986188;;edmund wernecke;False
+177;6e6f5090-6903-11ec-cb81-eaaf52a0989c;sparkasse neunkirchen;anna-maria scheuermann;False
+178;12102f10-7f04-11ec-9b8c-84cff41ff13e;landkreis metz;patrizia faust;False
+179;bd2a86a0-7d71-11ec-a3d5-18b6ba6fb852;swetlana weller;swetlana weller;True
+180;1809e5ec-ae51-4f6c-a9e7-6f0f7ae798a0;minijob;maren hecker;False
+181;d5891650-3201-11ec-d589-7f7e6bdb292f;landesbank berlin;margaret und ella herrmann;False
+182;5f501e50-9829-11ec-e86d-e1213bc80f8a;baeckerei gillen gmbh;wolfgang bloch;False
+183;cb37b9ec-aa3f-4677-a4ce-71151c559018;flatex preiß;agnieszka ackermann;False
+184;ef32acd0-66a7-11ec-400a-0fdfd96b0d33;erik ronny geisler;erik ronny geisler;True
+185;2d355a80-aef3-11ec-bf86-f426fcbe03ef;;lara sager;False
+186;ef574bd0-66a7-11ec-da37-6217f1d54ff5;levobank;konstanze und kazim holt;False
+187;7a9c13e0-434b-11ec-d478-c5242ca69488;lastschrift aus kartenzahlung;gertrud binner;False
+188;57d15650-2aef-11ec-1ca7-2000a6e9def8;klapp;eugenia putz;False
+189;a1fe0830-4d82-11ec-54bd-38d0ab017e88;staatsoberkasse bayern;alfred ruppersberger;False
+190;76229e50-5170-11ec-2010-1b635be2bf85;kuehnert;toni und pirmin pechel;False
+191;db97ea60-1f25-11ec-b264-3c6dac3f1e7b;uschi box;calogero martin;False
+192;51b5d810-3dcb-11ec-213d-64ecaa6d570c;lilo werner;otmar schulz;False
+193;564a4fb0-2fa6-11ec-2764-0d775902097f;rewe loni kaester;iwan und hedi sager;False
+194;f2592410-5d39-11ec-5401-9f83dda2dc9d;zoo24;anka scheel;False
+195;d284a600-3b6f-11ec-d42c-ce92dc57d179;stilla regina rust;stilla regina rust;True
+196;b892f151-e54d-4cdc-ad3b-bb49c6f10134;mueller leopold;leopold schmitz;False
+197;b892f151-e54d-4cdc-ad3b-bb49c6f10198;stefan und ulrike steffens;ulrike steffens;True
+198;cae3f5e0-5302-11ec-872e-14fadef21480;;lars pieper;False
+199;1b36d460-62ba-11ec-b1c2-5750fdc2b10d;;holger fanny speer;False
+200;5ab1bba0-a64e-11ec-7634-c0bfaeca463d;wuertt versicherg a g;guenther jessel;False
+201;779077a0-4cb9-11ec-6f56-4d2a9c2de0c8;telekom deutschland gmbh;danica ruppersberger;False
+202;c9867040-57b9-11ec-ccc5-ab32b5e22e1c;bundeskasse dienstort trier;stilla regina rust;False
+203;a0744270-5239-11ec-fa80-95d54f2ce503;erik ronny geisler;erik ronny geisler;True
+204;d40766e0-36b8-11ec-e566-db0ab42c9194;ga nr00002180 blz46050001 0;stilla regina rust;False
+205;2ebf4750-aa3c-11ec-8696-586dc16375e8;aldi sued sagt danke;hans-bernd wieloch;False
+206;22da43a0-4b27-11ec-ed79-928a00fa9362;stilla regina rust;stilla regina rust;True
+207;25c44e20-41b9-11ec-3c2b-198ca4821da9;restaurant drachen;hans-michael hendriks;False
+208;22b97530-4b27-11ec-bf81-1e4dbaecb853;kay-uwe bruder;luisa aleksandra reza lissi fischer;False
+209;28dc4670-384b-11ec-ff64-a2abc8dbe420;amir karz;amir karz;True
+210;d710e040-2d4a-11ec-9765-a24c48fa2a88;eugenia putz;eugenia putz;True
+211;199a49f0-6771-11ec-5046-5b4214a77574;;robby rogge;False
+212;07ddec40-831e-437d-8c61-e8d1e257f41c;paypal europe s a r l et cie s c a;agnieszka ackermann;False
+213;1b570690-62ba-11ec-88fc-2109efba8b7e;stilla regina rust;stilla regina rust;True
+214;0efaa7c0-8872-11ec-17d7-bf716ec0780b;;gero preiß;False
+215;1e296a60-594c-11ec-33fe-8663765f3ac8;bundesagentur fur arbeit;faruk killer;False
+216;9756ebf0-6e83-11ec-43de-6019430d5b1d;bundeskasse in weiden;vincenzo groettner;False
+217;c6709ad0-6127-11ec-f7ae-52dbd57700f8;zalando;margaret und ella herrmann;False
+218;15089170-7596-11ec-e780-955af19286b0;darlehenszins;antoinette dobes;False
+219;b892f151-e54d-4cdc-ad3b-bb49c6f10154;macron sabine;emmanuel macron;False
+220;3c842840-7fcd-11ec-3c50-c2e1cf695c61;esso tankstelle;hans-michael hendriks;False
+221;e60f14c0-82f1-11ec-5331-a3852b85574c;landkreis altenburger poelitz;ullrich scheel;False
+222;19980000-6771-11ec-c713-0c798a75e8d2;swetlana weller;swetlana weller;True
+223;0d763930-8d29-11ec-991c-e11a741a66b5;online payments foundation;birger nadja benthin;False
+224;9d66aa60-5ba7-11ec-847f-23bb059c6a3d;00799 mcdonalds;ayten siering;False
+225;40fe3a10-71a8-11ec-89f9-8b9ba8f56109;ga nr00002058 blz59252046 6;wolfgang bloch;False
+226;6b60ce20-7271-11ec-f1df-30268433e4db;elzbieta ackermann;elzbieta ackermann;True
+227;c7d91cf0-5c70-11ec-819b-83bd03db6482;saarbruecken globus sbw;luisa aleksandra reza lissi fischer;False
+228;4ed39ee2-6422-47ae-aff8-1f0e123e6c39;wuertt versicherg a g;wulf geißler;False
+229;5f45e520-9829-11ec-ee42-ca7190e28ff6;metzgerei berthold linke;philomena schaaf;False
+230;69dbc350-7728-11ec-7bfd-b6367fa4378e;cemil weller;cemil weller;True
+231;63d9c080-8a04-11ec-1e03-e8dcf8c511cb;amazon payments europe s c a;anna-maria scheuermann;False
+232;80a20610-b53c-11ec-a930-21c7eece11b3;raiffeisen warengesellschaft mbh;ullrich scheel;False
+233;d27786a0-3b6f-11ec-3b38-c88c3dfdc4ba;generali deutschland krankenversicherung ag;alfred ruppersberger;False
+234;f563d5f0-53cb-11ec-89a2-08353ac32f2b;;konstanze und kazim holt;False
+235;60edc270-0ea5-11ec-0fe5-57c102df8bfe;lastschrift aus kartenzahlung;nikolai scholz;False
+236;9d6fab10-5ba7-11ec-106d-e3a65c90a8ae;jaroslav doerschner;jaroslav doerschner;True
+237;fb6b2ff0-40ef-11ec-f220-0ab150314f87;deutsche klassenlotterie berlin rechtsf anstalt d or;toni und pirmin pechel;False
+238;db97c350-1f25-11ec-423c-c43b9cee65e7;ga nr00002016 blz83050200 1;calogero martin;False
+239;c9862220-57b9-11ec-33ce-d015493f7a74;stilla regina rust;stilla regina rust;True
+240;37f11030-8df2-11ec-8598-d30c4410bdc0;01588 mcdonalds;ayten siering;False
+241;c0349c40-7403-11ec-3ad4-a7f84f73d99d;sparkasse muenchen;till schuchhardt;False
+242;4bb81b00-50a7-11ec-25dc-a61f8b89189c;iwan und hedi sager;iwan und hedi sager;True
+243;3999bafb-b837-4f38-b495-0561b6a82ab6;viola immobilien;georgios berger;False
+244;0c205cf0-0d13-11ec-206d-53db8d3722d6;bundeskasse dienstort weiden;margarita groettner;False
+245;54b53710-b92a-11ec-ef08-3053ae383771;tankstelle;vincenzo mangold;False
+246;d277fbd0-3b6f-11ec-93d2-417702536796;cornelia kroker;cornelia kroker;True
+247;a811be40-3aa6-11ec-c1c7-fb016787d3c1;kuno doe;fredy tintzmann;False
+248;63c945c0-8a04-11ec-ef9f-07dd468b4728;worldpay;elzbieta ackermann;False
+249;a7dd3880-bf73-11ec-a42c-273b2ca91064;elena apollonia sibel raedel;hermann mangold;False
+250;d70a2980-2d4a-11ec-be43-ddd3bb8b2936;sparkasse muenchen;fredy tintzmann;False
+251;69e56040-7728-11ec-01d6-3a2e2dafa3f3;myshisha st schuchhardt;wolfgang bloch;False
+252;30464df0-a585-11ec-64e3-207ef1e02ecf;flatex jungfer;till schuchhardt;False
+253;471c7770-5ecc-11ec-d7df-20e1df5570bc;alfred konstantin ruppersberger;alfred ruppersberger;True
+254;a81a70d0-3aa6-11ec-f1b4-32f4f24c32f5;santander consumer bank ag;eugenia putz;False
+255;22d9ce70-4b27-11ec-c152-00df91d0c3d8;stilla regina rust;stilla regina rust;True
+256;d284cd10-3b6f-11ec-d865-152cf07e51a7;wuertt versicherg ag;lydia drub;False
+257;83bf5dd0-2701-11ec-0c8b-babb00f7eed6;a t u auto teile wende;lydia drub;False
+258;2ee83450-256f-11ec-e4ab-c91efb815673;;gabriele boerner;False
+259;e0a71c16-9685-45e7-96b1-098f532c1e7f;bundesagentur hanne arbeit service mans;georgios berger;False
+260;1b407150-62ba-11ec-ff12-b827c2091bcf;ga nr00002018 blz83050200 0;calogero martin;False
+261;37db6550-8df2-11ec-19cb-8cf8180801dd;wuestenrot bausparkasse a g;till schuchhardt;False
+262;c42e4fbc-0f69-4d41-a3bb-05a1bdb942b8;deutsche irmengard berlin;maren hecker;False
+263;053b3abb-47b9-4b44-a05f-bf727577a5bf;bundesagentur rudolf arbeit service spieß;lucia hertrampf;False
+264;4ebed540-4739-11ec-75bd-d3c6275ef08c;niederlassung deutschland amazon eu s a r l;carmine und peggy schinke;False
+265;4bc3b3c0-50a7-11ec-fd76-6da13f6cb412;petz rewe gmbh;stilla regina rust;False
+266;bec42ae0-78ba-11ec-ead4-48fa4b084b19;alice adeline sibylle hans-karl van der dussen;alice adeline sibylle hans-karl van der dussen;True
+267;84e168e1-0b31-4d29-a82c-9977120a2aa7;techniker krankenkasse;reingard henk;False
+268;4bb4e6b0-50a7-11ec-90a1-2ed9e01dd41e;robin depot;eugenia putz;False
+269;108a12d0-83bb-11ec-8f62-3b755a8059d0;quo vadis milenkovski gbr;georgia beckmann;False
+270;a09c63e0-5239-11ec-ab16-3cfe43434b1b;landeshauptkasse;stilla regina rust;False
+271;015609ad-91b4-4b0a-94c0-578a477326d1;dsl sieghard ndl db a g viola kornelia allee;lucia hertrampf;False
+272;1b6bc06e-c956-4314-addd-a4dfa234a31c;bundesagentur nadja arbeit service stumpf;agnieszka ackermann;False
+273;427d0350-6cf1-11ec-2fbc-3faae733405f;bundeskasse dienstort weiden;hinrich schleich;False
+274;108075e0-83bb-11ec-b50f-bf5f413300dd;agnieszka kurt hartung;agnieszka hartung;True
+275;564a28a0-2fa6-11ec-cf6d-e58c9c3fab84;ilja dietz;konstanze und kazim holt;False
+276;18158d40-6c28-11ec-a284-3eee5b635520;;pauline karge;False
+277;2ee85b60-256f-11ec-8f35-fd2250601e0f;;nikolai wernecke;False
+278;8cae7020-8f84-11ec-425f-d8d3ea091662;aldi gmbh co kg schloss holte;magret benthin;False
+279;db8eb9be-6332-4f52-8a4b-e1054ca963cd;allbau a g;maren hecker;False
+280;37dc28a0-8df2-11ec-5c18-c66df2c5ed43;katarzyna musterfrau;till schuchhardt;False
+281;ac795140-b14e-11ec-f0a2-85ea9e1bae5d;flatex jungfer;till schuchhardt;False
